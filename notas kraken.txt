@@ -1,0 +1,25 @@
+
+<h1><span style="color:navy;">El Kraken</span>
+    <body bgcolor=powderblue>
+      <h2><span style="color:purple;">¿Que es el Kraken?</span>
+      <h4>En las sagas y crónicas nórdicas de la Edad Media se menciona a un terrorífico monstruo marino del tamaño de una isla, que se movía por los mares entre Noruega e Islandia. La saga islandesa de Örvar-Oddr, del siglo XIII, hablaba del «monstruo más grande del mar», que se tragaba "hombres y barcos, e incluso ballenas". Estas intrigantes noticias se retoman en textos posteriores, como la crónica del sueco Olaus Magnus, del siglo XVI, que describía criaturas colosales capaces de hundir un barco.
+En el siglo XVIII, tales historias seguían circulando, y de hecho fue entonces cuando se empezó a conocer al monstruo con el nombre de «kraken», término noruego que se refería a algo retorcido. En 1752, el obispo de Bergen, Erik Ludvigse Pontoppidan, habla del kraken en su Historia natural de Noruega: «Una bestia de una milla y media de longitud, que si agarrara al buque de guerra más grande, lo arrastraría hasta el fondo», y especifica que «vive apostado en el fondo marino y sólo sube a la superficie cuando es calentado por el fuego del infierno».<br>
+
+    <img src="tentaculos.png" width="200" height="200"/>
+<h2><span style="color:purple;">Vistos en alta mar</span>
+    <h4>En estas descripciones hiperbólicas no todo era imaginario. Pontoppidan, por ejemplo, anotaba que «las descargas del animal enturbian las aguas». Por tanto, podría tratarse de un calamar: un calamar gigante. La historia del kraken se relacionaba con las peripecias de marineros en mares ignotos que contaban a la vuelta lo que habían visto y vivido. Si los marinos nórdicos se habían limitado al Atlántico norte, en la época moderna el campo de observación se amplió a todo el Pacífico.
+Algunos marineros hablaban del «Diablo rojo», un calamar que atrapaba y devoraba a náufragos. Otros se referían a animales marinos insaciables que alcanzaban 12 o 13 metros de largo. Los testimonios de oficiales de marina que describían encuentros con estos seres se sucedían, sembrando el desconcierto entre los científicos. El célebre naturalista sueco Carl von Linneo, padre de la taxonomía moderna, incluyó al kraken en su Systema Naturae (1735), pero la mayoría de científicos no estaban preparados para asumir la existencia del terrible monstruo nórdico.<br>
+
+
+
+
+
+
+
+
+    <br>
+       <table border height=30% width=30% cellspacing="5">
+       <tr>
+       <td><strong>DATO INTERESANTE: <br>
+<br>LOS BESTIARIOS MEDIEVALES HABLABAN DE CRIATURAS COLOSALES, TAN GRANDES QUE ERAN CONFUDIDAS CON ISLOTES POR LOS MARINEROS. ESTE GRABADO DEL SIGLO XVI, INCLUÍDO EN LA HISTORIA DE LOS ANIMALES, DE CONRAD GESSNER, MUESTRA A UNOS INCAUTOS MARINEROS HACIENDO UN FUEGO SOBRE UNO DE ESTOS ANIMALES MÍTICOS LLAMADO BALLENA DEL DIABLO.</strong></td><br>
+       </table>
